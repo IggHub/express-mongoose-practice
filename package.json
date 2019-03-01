@@ -1,0 +1,24 @@
+{
+  "name": "express-mongoose-practice",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "cors": "2.8.5",
+    "debug": "~2.6.9",
+    "dot-env": "0.0.1",
+    "express": "~4.16.0",
+    "hbs": "~4.0.1",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.3.4",
+    "@babel/node": "7.2.2",
+    "@babel/preset-env": "7.3.4",
+    "nodemon": "1.18.10"
+  }
+}
